@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pag:home|Door43 (pag)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pag|d43-pag repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pag/archive/master.zip|d43-pag.zip]]
+
+**Recent Changes**
+{{changes>ns = pag}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pag|Ethnologue data]]
+
